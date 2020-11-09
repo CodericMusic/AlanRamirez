@@ -1,5 +1,5 @@
-name: Juan Luis Guerra
-description: Y 4.40
+name: Alan Ramirez
+description: El Musico Favorito
 url: #place url
 gems: [jekyll-paginate]
 baseurl: /twister-jekyll-theme #place folder name if site is served in subfolder
